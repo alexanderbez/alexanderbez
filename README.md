@@ -6,7 +6,7 @@ I'm a senior software engineer with over 13 years of experience. I spend most of
 my time writing in Golang and Rust, focusing on protocol design and distributed
 systems in the web3 domain.
 
-## Contributions
+## Major OSS Contributions
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/pulls?q=is%3Apr+author%3Aalexanderbez+)
 * [CometBFT](https://github.com/tendermint/tendermint/pulls?q=is%3Apr+author%3Aalexanderbez+)
