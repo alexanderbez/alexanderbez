@@ -1,6 +1,6 @@
 # About Me
 
-![stats](https://github-readme-stats.vercel.app/api?username=alexanderbez&theme=tokyonight)
+![stats](https://github-readme-stats-nine-sigma-10.vercel.app/api?username=alexanderbez&theme=tokyonight)
 
 I'm a senior software engineer with over 13 years of experience. I spend most of
 my time writing in Golang and Rust, focusing on protocol design and distributed
